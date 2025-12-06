@@ -1,3 +1,4 @@
+<---Database Connection File--->
 <?php
 $conn = new mysqli("localhost", "root", "", "bus_system");
 
